@@ -1,0 +1,11 @@
+C:\Users\dilan\OneDrive\Masaüstü\Resim_Üzerinde_Yazı_Yazma\bin\Debug\Resim_Üzerinde_Yazı_Yazma.exe.config
+C:\Users\dilan\OneDrive\Masaüstü\Resim_Üzerinde_Yazı_Yazma\bin\Debug\Resim_Üzerinde_Yazı_Yazma.exe
+C:\Users\dilan\OneDrive\Masaüstü\Resim_Üzerinde_Yazı_Yazma\bin\Debug\Resim_Üzerinde_Yazı_Yazma.pdb
+C:\Users\dilan\OneDrive\Masaüstü\Resim_Üzerinde_Yazı_Yazma\obj\Debug\Resim_Üzerinde_Yazı_Yazma.csproj.AssemblyReference.cache
+C:\Users\dilan\OneDrive\Masaüstü\Resim_Üzerinde_Yazı_Yazma\obj\Debug\Resim_Üzerinde_Yazı_Yazma.csproj.SuggestedBindingRedirects.cache
+C:\Users\dilan\OneDrive\Masaüstü\Resim_Üzerinde_Yazı_Yazma\obj\Debug\Resim_Üzerinde_Yazı_Yazma.Form1.resources
+C:\Users\dilan\OneDrive\Masaüstü\Resim_Üzerinde_Yazı_Yazma\obj\Debug\Resim_Üzerinde_Yazı_Yazma.Properties.Resources.resources
+C:\Users\dilan\OneDrive\Masaüstü\Resim_Üzerinde_Yazı_Yazma\obj\Debug\Resim_Üzerinde_Yazı_Yazma.csproj.GenerateResource.cache
+C:\Users\dilan\OneDrive\Masaüstü\Resim_Üzerinde_Yazı_Yazma\obj\Debug\Resim_Üzerinde_Yazı_Yazma.csproj.CoreCompileInputs.cache
+C:\Users\dilan\OneDrive\Masaüstü\Resim_Üzerinde_Yazı_Yazma\obj\Debug\Resim_Üzerinde_Yazı_Yazma.exe
+C:\Users\dilan\OneDrive\Masaüstü\Resim_Üzerinde_Yazı_Yazma\obj\Debug\Resim_Üzerinde_Yazı_Yazma.pdb
